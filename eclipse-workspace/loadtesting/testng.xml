@@ -1,0 +1,13 @@
+<suite name="mysuite">
+<test name="test1">
+<classes>
+
+<class name="loadtesting.WebDriverTest"/>
+<class name="loadtesting.WebDriverTest2"/>
+</classes>
+
+</test>
+
+
+
+</suite>

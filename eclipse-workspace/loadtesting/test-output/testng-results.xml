@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="mysuite" duration-ms="10294" started-at="2017-07-25T13:09:44Z" finished-at="2017-07-25T13:09:54Z">
+    <groups>
+    </groups>
+    <test name="test1" duration-ms="10294" started-at="2017-07-25T13:09:44Z" finished-at="2017-07-25T13:09:54Z">
+      <class name="loadtesting.WebDriverTest2">
+        <test-method status="PASS" signature="testcase1()[pri:0, instance:loadtesting.WebDriverTest2@4520ebad]" name="testcase1" duration-ms="4650" started-at="2017-07-25T17:09:50Z" finished-at="2017-07-25T17:09:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase1 -->
+      </class> <!-- loadtesting.WebDriverTest2 -->
+      <class name="loadtesting.WebDriverTest">
+        <test-method status="PASS" signature="testcase1()[pri:0, instance:loadtesting.WebDriverTest@4cc0edeb]" name="testcase1" duration-ms="5630" started-at="2017-07-25T17:09:44Z" finished-at="2017-07-25T17:09:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase1 -->
+      </class> <!-- loadtesting.WebDriverTest -->
+    </test> <!-- test1 -->
+  </suite> <!-- mysuite -->
+</testng-results>

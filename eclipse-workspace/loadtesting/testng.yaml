@@ -1,0 +1,8 @@
+name: mysuite
+configFailurePolicy: skip
+tests:
+  - name: test1
+    classes:
+      - loadtesting.WebDriverTest.java
+      - loadtesting.WebDriverTest2.java
+
