@@ -2,6 +2,7 @@
 package loadtesting;
 
 import org.openqa.selenium.chrome.ChromeDriver;
+//just for testing purpose
 import org.testng.annotations.Test;
 
 public class WebDriverTest2 {
