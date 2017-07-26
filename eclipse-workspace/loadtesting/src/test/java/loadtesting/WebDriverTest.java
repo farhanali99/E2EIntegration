@@ -14,6 +14,7 @@ public class WebDriverTest {
 		driver.get("https://hosting.invers.com/aimex/");
 		driver.findElementById("ctl00_cph_LoginView1_LoginControl_Login1_UserName").sendKeys("Hello");
 		driver.findElementById("ctl00_cph_LoginView1_LoginControl_Login1_Password").sendKeys("Hellop");
+		driver.quit();
 		
 	}
 
